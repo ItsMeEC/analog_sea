@@ -1,0 +1,82 @@
+body {
+	background: #298eea;
+	font-family: sans-serif;
+	padding: 0;
+	margin: 0;
+	padding-top: 60px;
+}
+
+header {
+	text-align: center;
+}
+
+img {
+	height: 35px;
+}
+
+.container {
+	background-color: white;
+	margin-right: auto;
+	margin-left: auto;
+	width: 400px;
+	height: 500px;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.text {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+#email {
+	width: 320px;
+	height: 55px;
+	border: 2px solid grey;
+}
+
+#password {
+	width: 320px;
+	height: 55px;
+	border: 2px solid grey;
+}
+
+button:hover{
+	border-color: #999;
+	color: #777;
+}
+
+button {
+	background: green;
+	margin-top: 15px;
+	width: 323px;
+	height: 55px;
+	border: 2px solid grey;
+	font-weight: bolder;
+	font-size: 25px;
+	color: white;
+	margin-bottom: 15px;
+}
+
+.forgotpassword {
+	font-size: 20px;
+	margin-left: 80px;
+	color: grey;
+}
+
+.account {
+	color: white;
+	font-weight: bolder;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.account a {
+	color: white;
+}
+
+
